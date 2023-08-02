@@ -1,1 +1,1 @@
-# heartrisk_prediction_model
+This is a simple heartrisk prediction model. It predicts an individual's heart risk likelihood based on things including age, smoking history and so on. The model was trained by the data: https://www.kaggle.com/datasets/mokar2001/ascvd-heart-risk. 
